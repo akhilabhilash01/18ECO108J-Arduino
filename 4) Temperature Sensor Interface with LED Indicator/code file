@@ -1,0 +1,31 @@
+float temp;
+
+void setup() {
+
+pinMode (13, OUTPUT);
+
+Serial.begin (9600);
+
+}
+
+void loop() {
+
+temp= analogRead (A0);
+
+temp= (temp*500)/1024;
+
+Serial.println (temp);
+
+if (temp>30)
+
+digitalWrite (13, HIGH);
+
+else
+
+digitalWrite (13, LOW);
+
+delay (1000);
+
+}
+
+Watch video tutorial on how to implement Temperature Sensor with LED Indicator: https://www.youtube.com/watch?v=yHmKSsURP0w&list=PL_n-I-vFT7FvzOjkXNwD_EledGB2zTHB2&index=3&ab_channel=ComputerScientist
