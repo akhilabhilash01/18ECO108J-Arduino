@@ -1,0 +1,18 @@
+void setup()
+{
+Serial.begin(9600); // send and receive at 9600 baud
+}
+
+int number = 0;
+
+void loop()
+{
+Serial.print("Number is "); 
+Serial.println(number); // print the number
+delay(500); // delay half second between numbers
+number++; // to the next number
+}
+
+----
+
+Watch video tutorial on how to implement SERIAL COMMUNICATION: https://www.youtube.com/watch?v=IvrcImIh_nU&list=PL_n-I-vFT7FvzOjkXNwD_EledGB2zTHB2&index=8&ab_channel=ComputerScientist
