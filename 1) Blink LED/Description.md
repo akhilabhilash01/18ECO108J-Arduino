@@ -4,11 +4,11 @@ Blink LED with Arduino using Proteus
 Procedure:
 1) Create circuit 
 
-![LED blink](https://user-images.githubusercontent.com/91663578/171646239-6675c938-ab1c-42c9-9f40-feabfc3f98e4.jpg)
+![image](https://user-images.githubusercontent.com/91663578/171647274-1d4e442a-cea0-4e52-a4b1-9f0f01baf3e5.png)
 
 2) Copy the code and execute it on Arduino IDE.
 3) Upload the code.
-4) Run the project
+4) Run the project.
 
 Result:
 LED blinking interface successfully executed.
