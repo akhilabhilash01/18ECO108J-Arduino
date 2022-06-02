@@ -2,9 +2,9 @@
 
 Sri Ramaswami Memorial (SRM) IST all lab practicals of subject 18ECO108J - EMBEDDED SYSTEM DESIGN USING ARDUINO.
 
-Software used: Proteus
+**Software used:** Proteus
 
-IDE used: Arduino
+**IDE used:** Arduino
 
 **INDEX** 
 
@@ -17,4 +17,4 @@ IDE used: Arduino
 7) Stepper motor interface
 8) Serial communication
 
-For video tutorials: https://youtube.com/playlist?list=PL_n-I-vFT7FvzOjkXNwD_EledGB2zTHB2
+**Watch implementation videos of all above mentioned projects:** https://youtube.com/playlist?list=PL_n-I-vFT7FvzOjkXNwD_EledGB2zTHB2
