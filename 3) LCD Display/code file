@@ -1,0 +1,24 @@
+#include<LiquidCrystal.h>
+
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+
+void setup()
+{
+lcd.begin (16, 2);
+}
+
+void loop()
+{
+lcd.clear();
+lcd.setCursor(0,0);
+lcd.print("Hello");
+delay(1000);
+lcd.setCursor(0,1);
+lcd.print("CS01");
+delay(1000);
+lcd.clear();
+delay(500);
+}
+
+Watch video tutorial on how to implement LCD display interface: 
+https://www.youtube.com/watch?v=z-zb5J5KT9U&list=PL_n-I-vFT7FvzOjkXNwD_EledGB2zTHB2&index=4&ab_channel=ComputerScientist
