@@ -120,4 +120,4 @@ digitalWrite (g,1);
 delay (600);
 }
 
-Still stuck? Watch the video tutorial: https://www.youtube.com/watch?v=uA0uHXY2BYY&list=PL_n-I-vFT7FvzOjkXNwD_EledGB2zTHB2&index=2&ab_channel=ComputerScientist
+Video tutorial for SEVEN SEGMENT LED DISPLAY INTERFACE: https://www.youtube.com/watch?v=uA0uHXY2BYY&list=PL_n-I-vFT7FvzOjkXNwD_EledGB2zTHB2&index=2&ab_channel=ComputerScientist
